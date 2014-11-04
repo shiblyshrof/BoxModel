@@ -1,0 +1,31 @@
+﻿.box1 {
+    width: 380px;
+    
+    background: greenyellow;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.box2 {
+    width: 340px;
+   
+    background: red;
+    padding: 20px;
+}
+.box3 {
+    width: 300px;
+   
+    background: blue;
+    padding: 20px;
+}.box4 {
+    width: 260px;
+   
+    background: blueviolet;
+    padding: 20px;
+}.box5 {
+    width: 220px;
+    
+    background: gold;
+    padding: 20px;
+}

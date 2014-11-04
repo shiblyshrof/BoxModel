@@ -1,0 +1,6 @@
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\bin\Box.dll.config
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\bin\Box.dll
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\bin\Box.pdb
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\obj\Debug\Box.csprojResolveAssemblyReference.cache
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\obj\Debug\Box.dll
+c:\users\shibly\documents\visual studio 2013\Projects\Box\Box\obj\Debug\Box.pdb
